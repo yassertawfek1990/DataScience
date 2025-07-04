@@ -42,7 +42,7 @@ This file helps me stay organized and provides transparency to others viewing my
 
 | Project | Status | Notes |
 |--------|--------|-------|
-| CNN Image Classifier | 🟦 To Do | Dogs vs Cats or CIFAR-10 |
+| CNN Image Classifier | 🟦 To Do | Wildlife Vision |
 | LSTM for Stock Prediction | 🟦 To Do | Sequential time-series |
 | Sentiment Analysis with RNN | 🟦 To Do | IMDB dataset |
 | BERT-based Classifier | 🟦 In Progress | HuggingFace Transformers |
