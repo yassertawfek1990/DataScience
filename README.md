@@ -39,7 +39,7 @@ This is a curated collection of projects that demonstrate my skills across the f
 ### 🧠 Deep Learning
 | Project | Description |
 |--------|-------------|
-| [CNN Image Classifier](./03-deep-learning/image-classification-CNN/) | Classify images of cats and dogs |
+| [CNN Image Classifier](./03-deep-learning/image-classification-CNN/) | Wildlife Vision
 | [NLP Transformer](./03-deep-learning/NLP-transformers/) | Text classification with BERT |
 | [Time Series with RNN](./03-deep-learning/RNN-time-series/) | LSTM stock prediction |
 | [GANs Project](./03-deep-learning/GANs-image-generation/) | Image generation with GANs |
