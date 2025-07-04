@@ -1,4 +1,4 @@
-# # 💼 Data Science Portfolio by [Yasser Tawfek]
+# # 💼 Data Science Portfolio by Yasser Tawfek
 
 Welcome to my Data Science Portfolio! 🚀  
 This is a curated collection of projects that demonstrate my skills across the full data science pipeline—from data wrangling and statistical analysis, to machine learning, deep learning, NLP, big data, deployment, and storytelling.
